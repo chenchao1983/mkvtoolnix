@@ -109,6 +109,7 @@ public:
     , V_VC1
     , V_VP8
     , V_VP9
+    , V_PRORES
 
     , A_AAC = 0x2000
     , A_AC3
